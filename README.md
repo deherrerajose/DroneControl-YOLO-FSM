@@ -7,7 +7,7 @@
 
 # Directory Structure
 
-<h2> drone_control: </h2> Contains the main scripts for the project.
+<h2> DroneControl-YOLO-FSM: </h2> Contains the main scripts for the project.
  <h4> main.py: </h4> Integrates object detection with drone control.
  <h4> fsm.py: </h4> Manages drone states and commands.
  <h4> /models: </h4> Stores machine learning models.
@@ -19,7 +19,7 @@
 # Setup
   # Prerequisites
     Python 3.x
-    OpenCV library
+    virtualenv library
     Tello drone with Python SDK
 
 # Python Virtual Environment
