@@ -33,9 +33,9 @@ Using the .env virtual environment ensures consistent running conditions.
     macOS/Linux: source .env/bin/activate
 
 ### Installation
-  Clone the repository.
-  Set up .env virtual environment.
-  Add YOLO model files to /models.
+    Clone the repository.
+    Set up .env virtual environment.
+    Add YOLOv3.weights file to /models.
 
 # YOLOv3 Object Detection
   YOLOv3 is used for real-time object detection, analyzing the drone's video stream. This model is known for its speed and accuracy.
@@ -45,18 +45,18 @@ Using the .env virtual environment ensures consistent running conditions.
  <h4> Integration: </h4>YOLOv3 is loaded in main.py for video analysis.
 
 # Running the Project
-  Activate the .env environment.
-  Connect to the drone's Wi-Fi.
-  Run main.py in /drone_control.
+    Activate the .env environment.
+    Connect to the drone's Wi-Fi.
+    Run main.py in /drone_control.
 
 # Usage
-  main.py for drone video stream and object detection.
-  fsm.py to modify drone responses and states.
+    main.py for drone video stream and object detection.
+    fsm.py to modify drone responses and states.
 
 # Troubleshooting
-  <p> Update drone firmware. </p>
-  <p>Check drone battery. </p>
-  <p>Verify serial communication settings. </p>
+    <p> Update drone firmware. </p>
+    <p>Check drone battery. </p>
+    <p>Verify serial communication settings. </p>
 
 # Contributing
   Contributions are welcome. Fork the project for improvements or fixes.
