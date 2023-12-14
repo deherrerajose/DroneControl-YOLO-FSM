@@ -54,9 +54,9 @@ Using the .env virtual environment ensures consistent running conditions.
   fsm.py to modify drone responses and states.
 
 # Troubleshooting
-  Update drone firmware.
-  Check drone battery.
-  Verify serial communication settings.
+  <p> Update drone firmware. </p>
+  <p>Check drone battery. </p>
+  <p>Verify serial communication settings. </p>
 
 # Contributing
   Contributions are welcome. Fork the project for improvements or fixes.
