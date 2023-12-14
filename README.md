@@ -47,16 +47,16 @@ Using the .env virtual environment ensures consistent running conditions.
 # Running the Project
     Activate the .env environment.
     Connect to the drone's Wi-Fi.
-    Run main.py in /drone_control.
+    Run 'python main.py'.
 
 # Usage
     main.py for drone video stream and object detection.
     fsm.py to modify drone responses and states.
 
 # Troubleshooting
-    <p> Update drone firmware. </p>
-    <p>Check drone battery. </p>
-    <p>Verify serial communication settings. </p>
+    Update drone firmware.
+    Check drone battery.
+    Verify serial communication settings.
 
 # Contributing
   Contributions are welcome. Fork the project for improvements or fixes.
