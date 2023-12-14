@@ -32,9 +32,6 @@ Using the .env virtual environment ensures consistent running conditions.
     Windows: .env\Scripts\activate
     macOS/Linux: source .env/bin/activate
 
-### Install dependencies:
-    pip install -r requirements.txt
-
 ### Installation
   Clone the repository.
   Set up .env virtual environment.
