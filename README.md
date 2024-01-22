@@ -10,6 +10,7 @@
 <h2> DroneControl-YOLO-FSM: </h2> Contains the main scripts for the project.
  <h4> main.py: </h4> Integrates object detection with drone control.
  <h4> fsm.py: </h4> Manages drone states and commands.
+ <h4> Final.ino: </h4> Contains the flight modes and Abort command. 
  <h4> /models: </h4> Stores machine learning models.
  <h4> yolov3.weights: </h4> Weights for the YOLOv3 model.
  <h4> yolov3.cfg: </h4> Configuration file for YOLOv3.
